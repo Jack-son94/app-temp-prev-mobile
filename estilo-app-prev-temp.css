@@ -14,6 +14,7 @@ body {
     background-image: url("https://source.unsplash.com/700x1390/?landscape");
     background-repeat: no-repeat;
     background-size: 100%;
+    margin: 0;
 }
 
 .conteudo {
